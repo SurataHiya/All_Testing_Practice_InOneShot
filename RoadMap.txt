@@ -16,4 +16,8 @@ In html report testcases of twofile are generated.
 
 
 
+Key takeouts :
 
+1. tobe()  is only used for primitive datatype
+2. toequal() is ony used for objecst and arrays
+3. toThrow 
