@@ -1,0 +1,74 @@
+ ------------------------------------------------------------------------------
+                            
+ ------------------------------------------------------------------------------
+                                amount is NULL
+                                
+                                amount is False
+
+                                amount is True
+
+                                amount is "Hiya"
+
+                                amount is "*"
+
+                                amount is "@$%"
+
+                                amount is "###"
+
+                                amount is "789%"
+
+                                amount is "7**()"
+
+                                amount is (923456)
+
+                                amount is [5,6,7,9]
+
+                                amount is {name:Hiya,amount:12000}
+
+                                amount is  Select *
+
+                                amount is Select payment
+
+                                amount is undefined
+
+                                amount is Number.MIN_SAFE_INTEGER  
+
+                                amount is 0 
+
+                                amount is -100
+
+                                amount is " "
+
+                                amount is [923456]
+
+                                amount is {2334567}
+
+                                amount is ({[55555578576]})
+
+                                amount is *****5555555******
+
+                                amount is "HIYAAAAA"
+
+                                amount IS "{[<>?)(&^%$#@!)]}\+_-* "!~,."
+
+                                amount is "5"666666
+                                amount is NaN
+                                amount is "1234567890ABCDabcd"
+                                 
+                                 
+
+----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+
+
+                                    amount is 100 
+                                    amount is 12100000000 
+                                    amount is Number.MAX_SAFE_INTEGER  
+
+
+
+
+
+
+ 
+ 

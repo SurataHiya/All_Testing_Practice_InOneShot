@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------------------------------------
+                                File structure defined
+-----------------------------------------------------------------------------------------------------------
+
+Here I fix checkpayment method in paymentfixing.js file and write test cases in payTwo.test.js file. All the testcases passed.
+
+In paytwo.js file checkpayment as check method is written and corresponding test cases are written.
+
+In html report testcases of twofile are generated. 
+
+----------------------------------------------------------------------------------------------------------
+
+                                 
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+

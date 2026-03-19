@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^30.3.0"
+  },
+  "devDependencies": {
+    "jest-html-reporter": "^4.3.0"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      [
+        "jest-html-reporter",
+        {
+          "pageTitle": "Test Report"
+        }
+      ]
+    ]
+  }
+}
