@@ -1,7 +1,7 @@
 // paymentFixing.js
 function checkPayment(amount) {
 
-    if (typeof amount !== "number" || isNaN(amount) ){
+    if (typeof amount !== "number" || Number.isNaN(amount) ){
     return {
       success: false,
       message: "Invalid amount"
