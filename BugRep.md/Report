@@ -1,0 +1,44 @@
+https://docs.google.com/document/d/1n-yxVzQZPS0XR7UtKhnCkxR6H3FNvXCZXp7SmMRK63U/edit?usp=sharing
+
+
+this is my bug report  on this method :
+
+    Function
+checkPayment(amount)
+Expected Rules:
+amount অবশ্যই number হতে হবে
+amount যদি 0 বা তার কম হয় → পেমেন্ট নেওয়া যাবে না
+amount যদি 100 বা বেশি হয় → payment accepted
+amount যদি 100 এর কম হয় → payment rejected
+Return format
+{
+  success: true / false,
+  message: string
+}
+=========================================================================
+
+📁 payment.js
+function checkPayment(amount) {
+
+  if (!amount) {
+    return {
+      success: false,
+      message: "Invalid amount"
+    };
+  }
+
+  if (amount > 100) {
+    return {
+      success: true,
+      message: "Payment accepted"
+    };
+  }
+
+  return {
+    success: false,
+    message: "Payment rejected"
+  };
+}
+
+
+
