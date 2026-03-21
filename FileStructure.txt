@@ -6,7 +6,7 @@ Here I fix checkpayment method in paymentfixing.js file and write test cases in 
 
 In payTwo.js file, checkpayment as check method is written and corresponding test cases are written in payTwo.test.js, there 27 failed, 8 passed.
 
-In html report testcases of twofile are generated. 
+In html report testcases of two files are generated. 
 
 ----------------------------------------------------------------------------------------------------------
 
