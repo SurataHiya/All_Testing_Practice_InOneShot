@@ -1,0 +1,3 @@
+- [Jest HTML Report](test-report.html)
+- [Coverage Report](coverage)
+- [Bug report] https://docs.google.com/document/d/1n-yxVzQZPS0XR7UtKhnCkxR6H3FNvXCZXp7SmMRK63U/edit?usp=sharing
