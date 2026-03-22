@@ -23,3 +23,39 @@ Key takeouts :
 3. toThrow is used only when specific function returns new error
 
 4. isNaN(amount)  -- new function learnt
+
+
+The function : 
+
+📁 payment.js
+function checkPayment(amount) {
+
+  if (!amount) {
+    return {
+      success: false,
+      message: "Invalid amount"
+    };
+  }
+
+  if (amount > 100) {
+    return {
+      success: true,
+      message: "Payment accepted"
+    };
+  }
+
+  return {
+    success: false,
+    message: "Payment rejected"
+  };
+}
+
+module.exports = checkPayment;
+
+Return format
+{
+  success: true / false,
+  message: string
+}
+
+
