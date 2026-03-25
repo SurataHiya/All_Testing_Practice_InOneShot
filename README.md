@@ -1,4 +1,4 @@
-Topic : Performed whitebox testing on payment method
+Topic : Performed whitebox testing(unit testing) on payment method using jest
 
 View Reports:
 - [Jest HTML Report](test-report.html)
